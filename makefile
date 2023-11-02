@@ -38,7 +38,7 @@ agepro: $(OBJ_FILES)
 	$(CC) $(C_FLAGS) -o $(EXE_PATH) $^ $(MAIN_FILE) 
 
 # Cleanup  
-PHONY: .clean
+.PHONY: clean
 clean:
 	echo "[Clean] Clean Object Files"
 	-rm -f $(OBJ_FILES)
