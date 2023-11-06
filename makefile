@@ -3,6 +3,9 @@
 C_FLAGS := # -Wall -Wextra 
 CC := gcc
 
+# Include <math.h> library to compilation
+LIBS := -lm
+
 # Directories the makefile should search 
 VPATH := ./obj/ ./src/ ./bin/
 
@@ -35,7 +38,7 @@ $(OBJ_DIR)/%.o: $(SRC_DIR)/%.c
 #Compile main file, and link object files to target executable.
 agepro: $(OBJ_FILES)
 	@echo "[Info] Building Binary Executable [$(TARGET)]"
-	$(CC) $(C_FLAGS) -o $(EXE_PATH) $^ $(MAIN_FILE) 
+	$(CC) $(C_FLAGS) -o $(EXE_PATH) $^ $(MAIN_FILE) $(LIBS)
 
 # Cleanup  
 .PHONY: clean
