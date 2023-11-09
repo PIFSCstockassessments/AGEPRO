@@ -2,9 +2,12 @@ AGEPRO Calculation Engine Project
 Lead:  Jon Brodziak, NOAA Fisheries/PIFSC
 Email: Jon.Brodziak@NOAA.GOV
 /******************************************************************************/
-AGEPRO files
-C code files: agepro.c ranx.c boxmuller.c util.c
-C header files: agepro.h ranx.h util.h
+AGEPRO source code files
+C code files:     agepro.c (main C code) 
+                  ranx.c (generate random U(0,1) variate)
+                  boxmuller.c (generate pairs of random N(0,1) variates)
+                  util.c (various utility functions)
+C header files:   agepro.h ranx.h util.h
 /******************************************************************************/
 Steps to compile AGEPRO executable using a C language compiler (cc or gcc):
 (1) Compile object files for the files ranx.c, boxmuller.c, and util.c using
