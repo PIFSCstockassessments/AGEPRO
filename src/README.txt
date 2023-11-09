@@ -7,7 +7,7 @@ C code files:     agepro.c (main C code)
                   ranx.c (generate random U(0,1) variate)
                   boxmuller.c (generate pairs of random N(0,1) variates)
                   util.c (various utility functions)
-C header files:     agepro.h (header of agepro.c)
+C header files:     agepro.h (header for agepro.c)
                     ranx.h (header for ranx.c)
                     util.h (header for util.c)
 /******************************************************************************/
