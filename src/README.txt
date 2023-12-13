@@ -11,11 +11,11 @@ C header files:     agepro.h (header for agepro.c)
                     ranx.h (header for ranx.c)
                     util.h (header for util.c)
 /******************************************************************************/
-Steps to compile AGEPRO executable using a C language compiler (cc or gcc)
+Steps to compile AGEPRO executable using a C language compiler (e.g., gcc)
 (1) Compile object files for the files ranx.c, boxmuller.c, and util.c
     Use syntax:
-    cc -c filename.c
-(2) Compile agepro.c, link object files, and name the executable "AGEPRO.exe"
+    gcc -c filename.c
+(2) Compile agepro.c, link object files, and name the executable "agepro.exe"
     Use syntax:
-    cc -o AGEPRO.exe ranx.o boxmuller.o util.o agepro.c
+    gcc -o Agepro.exe ranx.o boxmuller.o util.o agepro.c
 /******************************************************************************/

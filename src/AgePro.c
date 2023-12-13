@@ -1,15 +1,29 @@
-/* AgePro Version 4.2
+/* AGEPRO Version 4.2
 **
-**  27 September 2012 - Change MAXRECTYPE from 19 to 21
+** 16 June 2022 - Added USA Government disclaimer 
 **
-**  17 January 2012 - Increase Buffer for Extra Long Time Series
+** File: agepro.c
 **
-**  2 December 2011
+** Authors: Jon Brodziak, Alan Seaver, Chris Legault, Paul Rago
 **
-**  Add SR Model #21 - Empirical CDF with Linear Decline to Zero
+** This File is part of the NOAA, National Marine Fisheries Service
+** AGE-Structured PROjection (AGEPRO) software project.
 **
-** AgePro Version 4.0
-** 13 September 2011
+** This software is a "United States Government Work" under the terms of the
+** United States Copyright Act.  It was written as part of the author's official
+** duties as a United States Government employee and thus cannot be copyrighted.
+** This software is freely available to the public for use. The National Oceanic
+** And Atmospheric Administration and the U.S. Government have not placed any
+** restriction on its use or reproduction.  Although all reasonable efforts have
+** been taken to ensure the accuracy and reliability of the software and data,
+** the National Oceanic And Atmospheric Administration and the U.S. Government
+** do not and cannot warrant the performance or results that may be obtained by
+** using this  software or data. The National Oceanic And Atmospheric
+** Administration and the U.S. Government disclaim all warranties, express or
+** implied, including warranties of performance, merchantability or fitness
+** for any particular purpose.
+**
+** Please cite the author(s) in any work or product based on this material.
 **
 */
 #include <stdio.h>
