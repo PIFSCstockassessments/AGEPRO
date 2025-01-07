@@ -1,0 +1,15 @@
+---
+title: "Some AGEPRO Applications"
+author: "Jon Brodziak"
+format: html
+editor: visual
+---
+
+# Some AGEPRO Applications
+
+1.  Brooks, E.N., and Brodziak, J.K.T. 2024. Simulation testing performance of ensemble models when catch data are underreported. ICES Journal of Marine Science, 81:1053–1072, <https://doi.org/10.1093/icesjms/fsae067>
+2.  Flowers, A.M., Allen, S.D., Markwith, A.L., and Lee, L.M. (editors). 2019. Stock assessment of southern flounder (*Paralichthys lethostigma*) in the South Atlantic, 1989–2017. Joint report of the North Carolina Division of Marine Fisheries, South Carolina Department of Natural Resources, Georgia Coastal Resources Division, Florida Fish and Wildlife Research Institute, University of North Carolina at Wilmington, and Louisiana State University. NCDMF SAP-SAR-2019-01. 213 p. <https://digital.ncdcr.gov/Documents/Detail/stock-assessment-of-southern-flounder-paralichthys-lethostigma-in-the-south-atlantic-1989-2017/3689489>
+3.  Lee, M.-Y., Steinback, S., and Wallmo, K. 2017. Applying a bioeconomic model to recreational fisheries management: Groundfish in the northeast United States. Marine Resource Economics, 32:191-216, <http://dx.doi.org/10.1086/690676>
+4.  Mayo, R.K., Shepherd, G., O’Brien, L., Col, L.A., and Traver, M. 2009. The 2008 assessment of the Gulf of Maine Atlantic cod (*Gadus morhua*) stock. US Dept Commer, Northeast Fisheries Science Center Reference Document 09-03; 128 p. Available from: National Marine Fisheries Service, 166 Water Street, Woods Hole, MA 02543-1026, or online at <http://www.nefsc.noaa.gov/nefsc/publications/> 
+5.  Nadon. M.O., Sculley, M., and Carvalho, F. 2020. Stock assessment of uku (*Aprion virescens*) in Hawaii, 2020. U.S. Dept. of Commerce, NOAA Technical Memorandum NOAA-TM-NMFS-PIFSC-100, 120 p. <https://doi.org/10.25923/57nb-8138>
+6.  Scarcella, G., Grati, F., Raicevich, S., Russo, T., Gramolini, R., Scott, R.D., Polidori, P., Domenichetti, F., Bolognini, L., Giovanardi, O., Celić, I., Sabatini, L., Vrgoč, N., Isajlović, I., Marčeta, B., and Fabi, G. 2014. Common sole in the northern and central Adriatic Sea: Spatial management scenarios to rebuild the stock. Journal of Sea Research, 89:12-22, <https://doi.org/10.1016/j.seares.2014.02.002>
