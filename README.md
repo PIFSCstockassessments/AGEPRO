@@ -1,5 +1,5 @@
 AGEPRO Project
-Lead:  Jon Brodziak, NOAA Fisheries/PIFSC
+Project Lead:  Jon Brodziak, NOAA Fisheries/PIFSC
 Email: Jon.Brodziak@NOAA.GOV
 
 ## Github Disclaimer
